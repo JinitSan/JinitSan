@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning new programming languages and frameworks
 - 👯 I’m looking to collaborate on Research Projects and Hackathons
 
-- 📝 [Resume](https://drive.google.com/file/d/1yq6SDSMlxm1H_L5O19m4NQyXhZZBdTTo/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1a4Ec7szzj4NNpktWN1WX4aBgnNdUP67q/view?usp=sharing)
 
 <h3>Languages and Frameworks </h3>
 <p>
